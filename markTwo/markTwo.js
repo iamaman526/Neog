@@ -109,15 +109,6 @@ for (let i = 0; i < highScore.length; i++) {
 //   console.log(questionThree.question);
 
 
-
-
-
-
-
-
-
-
-
 //Ex 12
 //creating object superHero
 // var superMan = { 
