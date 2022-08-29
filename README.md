@@ -1,2 +1,3 @@
 #  Neog Camp 
-## Test
+## Testgit config --list
+will do that later 
