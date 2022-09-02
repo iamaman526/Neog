@@ -96,6 +96,7 @@ hr {
 
 .navigation .link-active {
   font-weight: bold;
+  font-size:large
 }
 
 /** header **/
@@ -164,3 +165,8 @@ hr {
   font-weight: bold;
   font-size: large;
 }
+ .footer .footer-brand{
+  padding: 0.7rem;
+  margin-bottom: 0rem;
+  color:black
+ }
