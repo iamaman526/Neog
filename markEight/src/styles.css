@@ -1,0 +1,22 @@
+.App {
+  font-family: Sofia;
+  text-align: center;
+  color: #014b43;
+}
+
+.App input {
+  width: 80%;
+  padding: 1.5rem;
+  
+}
+
+.allEmoticon {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.emoticon-meaning {
+  background-color: rgb(231, 14, 97);
+  font-size: 1.5rem;
+}
