@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&family=Poppins:wght@100&family=Roboto+Condensed:wght@300&family=Roboto+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.root {
+    font-family: Roboto Mono;
+    text-align: center;
+    width: auto;
+}
+
+.brand{
+    color: #f43f5e;
+    text-align: center;
+    padding: 1.5rem;
+    margin-left: 2.5rem;
+    padding-top: 4rem;
+}
+
+.root p{
+    color: black;
+    font-size: large;
+    max-width: 100%;
+    padding-left: 8rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    
+}
+
+.root span{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    margin: 1rem;
+    margin-bottom: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    border: 2px solid #f43f5e;
+    font-size: large;
+    text-align: center;
+}
+
+#button-check{
+    font-size: x-large;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+    background-color:#f43f5e;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+}
+
+.output-msg{
+    width: auto;
+    padding-right: 2rem;
+    text-align: center;
+}
+
+.table-div{
+    margin-left: 10rem;
+    margin: auto;
+    max-width: fit-content;
+    padding-top: 1.5rem;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid #f43f5e;
+}
+
+td, th{
+    border: 2px solid #f43f5e;
+    width: 0%;
+    font-size: large;
+    padding: 0.8rem 2rem;
+}
+
+
+.footer{
+    text-align: center;
+    margin-top: 2.5rem;
+    text-decoration: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
+ .footer .footer-brand{
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+ }
+
+ 
