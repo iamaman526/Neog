@@ -1,0 +1,62 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.brand {
+  color: #018786;
+  text-shadow: rgb(79, 4, 253) 2rem;
+  text-shadow: 1px 1px 1px rgb(241, 5, 230);
+  margin-bottom: 0rem;
+}
+
+.App img {
+  height: 50px;
+  width: 50px;
+}
+
+.App p {
+  text-shadow: 2px 2px 8px #663399;
+  font-family: Arial;
+}
+
+.App hr {
+  margin: 1.5rem;
+}
+
+.container {
+  height: 68vh;
+  max-width: 100%;
+  padding: 2rem;
+  margin-top: 1.5rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  display: block;
+  border: 3px solid black;
+  background-color: #f3f4f6;
+  border-radius: 4rem;
+}
+
+.mini-container {
+  height: 2.5vh;
+  width: 230px;
+  padding: 5rem;
+  padding-bottom: 2.5rem;
+  padding-top: 1.6rem;
+  margin: 0 auto;
+  margin-top: 2.4rem;
+  display: block;
+  border: 1.5px solid #525252;
+  background-color: white;
+  border-radius: 0.5rem;
+  text-align: left;
+  border: 2px solid #886c38;
+  font-size: larger;
+}
+
+.btn-cuisine {
+  padding: 0.2rem 0.5rem;
+  margin-left: 1rem;
+  cursor: pointer;
+  border-radius: 1rem;
+}
