@@ -5,37 +5,40 @@
   padding: 0;
 }
 
-body h1{
+body h1 {
   text-align: center;
-  font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+    
 }
 
-.header{
+.header {
   margin: auto;
   margin-bottom: 1rem;
-  
+
   background-color: #f08616a2;
   padding: 2rem 0rem;
   color: rgb(241, 8, 8);
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
 }
 
-.header .header-img{
+.header .header-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 5%;
- margin-bottom: 1rem;
+  margin-bottom: 1rem;
+ 
 }
 
-.container{
+.container {
   max-width: 900px;
   width: fit-content;
   margin: auto;
 }
 
-.box{
+.box {
   height: 40vh;
   width: 80vh;
   padding: 2rem;
@@ -45,11 +48,15 @@ body h1{
   background-color: #fef3c7;
   font-size: x-large;
 }
+.box-img {
+  background-image: url();
+  max-width: auto;
+}
 
-#btn-translate{
+#btn-translate {
   padding: 1rem 2rem;
   margin: 2rem;
-  font-family:'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-size: x-large;
   background-color: #f08616a2;
   color: rgb(241, 8, 8);
@@ -59,7 +66,7 @@ body h1{
   cursor: pointer;
 }
 
-.footer{
+.footer {
   margin: auto;
   background-color: #fdba74;
   padding: 1rem 0rem;
@@ -68,19 +75,16 @@ body h1{
   border-top-right-radius: 1rem;
 }
 
-.footer p{
+.footer p {
   text-align: center;
   padding: 0rem 2rem;
   color: rgb(241, 8, 8);
-  
-  
 }
 
-.footer .footer-img{
+.footer .footer-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 5%;
- margin-top: 2rem;
- 
+  margin-top: 2rem;
 }

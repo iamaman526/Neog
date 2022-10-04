@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,400;1,700&family=Poppins:wght@100&family=Roboto+Condensed:wght@300&family=Roboto+Mono&family=Ubuntu:ital,wght@0,400;1,500&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-box {
+    text-align: center;
+    font-family: Poppins;
+    margin: 0 auto;
+    margin-top: 10rem;
+    height: 50vh;
+    width: 550px;
+    padding-top: 2rem;
+  }
+
+h1{
+    margin: 2rem;
+    color: #ef4444;
+}
+
+p{
+    font-size: x-large;
+    margin: 0.5rem;
+}
+
+input{
+    font-size: x-large;
+    margin: 1rem;
+    padding: 0.8rem 1.8rem;
+    border-radius: 0.5rem;
+    border: 2px solid #ef4444;
+}
+
+button{
+    margin: 1rem;
+    font-size: 25px;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    background-color: #ef4444;
+    border: 0px;
+    cursor: pointer;
+}
+
+.output{
+    color: black ;
+    padding-top: 1rem;
+}
