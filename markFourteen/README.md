@@ -1,6 +1,6 @@
 # Stock Profit & Loss Calculator
 
-### Live Demo: hhttps://iamaman526-mark14.netlify.app/
+### Live Demo: https://iamaman526-mark14.netlify.app/
 
 ## What this App does?
 An app that helps user know how much profit or loss he/she is making in percentage & absolute value
